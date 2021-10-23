@@ -5,7 +5,7 @@
  
  Fiquem à vontade para me adicionar nas redes sociais:
  
- <a href="https://www.linkedin.com/in/icarofgomes/">
+ <a href="https://www.linkedin.com/in/icarofgomes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  
