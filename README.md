@@ -31,8 +31,8 @@
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  </div>
  
- ### **Contribuições GitHub**
+ ### **Contribuições GitHub:**
  <img src="https://github-readme-stats.vercel.app/api?username=icarofgomes"/>
  
- ### **Principais Linguagens no GitHub**
+ ### **Principais Linguagens no GitHub:**
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarofgomes" />
