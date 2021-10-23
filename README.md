@@ -1,7 +1,7 @@
 ## Boas vindas 👋
  Olá visitantes!
  
- Meu nome é Icaro e atualmente moro em São Paulo e estudo Desenvolvimento Web na plataforma da Trybe.
+ Meu nome é Icaro e atualmente moro em São Paulo e estudo Desenvolvimento Web na plataforma da <a href="https://www.betrybe.com/">Trybe</a>.
  
  ### **Fiquem à vontade para me adicionar nas redes sociais ou entrar em contato:**
  
