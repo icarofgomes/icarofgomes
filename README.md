@@ -1,44 +1,46 @@
-## Boas vindas 👋
- Olá visitantes!
- 
- Meu nome é Icaro e atualmente moro em São Paulo e estudo Desenvolvimento Web na plataforma da <a href="https://www.betrybe.com/">Trybe</a>.
- Para ver alguns dos meus projetos no ar visite meu <a href="https://icarofgomes.github.io/" target="_blank">**Portfólio**.</a>
- 
- ### **Fiquem à vontade para me adicionar nas redes sociais ou entrar em contato:**
- 
- <a href="https://www.linkedin.com/in/icarofgomes/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/fgomes.icaro">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- </a>
-  <a href="https://api.whatsapp.com/send?phone=5511966370030">
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- </a>
-  <a href="mailto:fgomes.icaro@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
+👋 Olá!
 
- 
- ### **Principais Tecnologias:**
- 
- <div>
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
- </div>
+Sou o Ícaro, Backend Engineer com experiência no desenvolvimento de APIs escaláveis, integração de sistemas e operação de aplicações em produção.
+
+Atuo principalmente com Node.js (TypeScript), PHP (Laravel/Symfony) e Python, construindo serviços robustos com foco em performance, segurança e manutenibilidade.
+
+Tenho experiência prática com ambientes de produção, incluindo deploy em cloud, observabilidade e troubleshooting de incidentes.
+
+🚀 Principais competências
+
+Desenvolvimento de APIs REST (Node.js, PHP, Python)
+
+Arquitetura de sistemas backend
+
+Integração com bancos SQL e NoSQL (MySQL, PostgreSQL, MongoDB, Redis)
+
+Mensageria (RabbitMQ)
+
+Containerização com Docker
+
+Orquestração com Kubernetes
+
+Cloud (AWS – EC2, S3, RDS)
+
+Monitoramento e observabilidade (Sentry, Atatus)
+
+🧠 O que você vai encontrar aqui
+
+Projetos backend com foco em boas práticas
+
+Integrações com APIs externas
+
+Exemplos de arquitetura e organização de código
+
+Scripts e automações em Python
+
+📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/icarofgomes/
+
+Email: fgomes.icaro@gmail.com
+
+📊 GitHub Stats
  
  ### **Contribuições GitHub:**
  <img src="https://github-readme-stats.vercel.app/api?username=icarofgomes"/>
- 
- ### **Principais Linguagens no GitHub:**
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarofgomes" />
