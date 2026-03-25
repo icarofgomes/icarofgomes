@@ -1,6 +1,6 @@
 👋 Olá!
 
-Sou o Ícaro, Backend Engineer com experiência no desenvolvimento de APIs escaláveis, integração de sistemas e operação de aplicações em produção.
+Sou o Icaro, Backend Engineer com experiência no desenvolvimento de APIs escaláveis, integração de sistemas e operação de aplicações em produção.
 
 Atuo principalmente com Node.js (TypeScript), PHP (Laravel/Symfony) e Python, construindo serviços robustos com foco em performance, segurança e manutenibilidade.
 
