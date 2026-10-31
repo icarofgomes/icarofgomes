@@ -43,4 +43,4 @@ Email: fgomes.icaro@gmail.com
 📊 GitHub Stats
  
  ### **Contribuições GitHub:**
- <img src="https://github-stats-extended.vercel.app/api?username=icarofgomes"/>
+ <img src="https://github-stats-extended.vercel.app/api?username=icarofgomes&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github"/>
